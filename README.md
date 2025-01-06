@@ -6,8 +6,6 @@ This is the most interesting thing you’ll ever read in your life. Seriously. N
 I started my programming journey *many years ago*. I was a **tiny boy** with a dream. From there, I “grew” into the average, totally uninspired coder you see before you.
 
 - *Insert tons of links to my generic blog posts about topics I have no idea about.*
-- 
-- *Insert tons of links to my social media accounts because I'm tottaly worth of following.*
-- 
+- *Insert tons of links to my social media accounts because I'm tottaly worth following.*
 - *Pretty graph, so you can get impressed.*
 
