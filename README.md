@@ -1,10 +1,38 @@
-# Welcome to My GitHub! 🎉🚀
 
-Here, you can read about my **life story** 📖, marvel at the *amazing* languages I pretend to know 💻💡, and skim through **shameless plugs** 🔗 of my *unsuccessful* development blogs 📚💥. All of this while you are assaulted by an overwhelming number of **emojis** 😱💥🎨. This is the most **interesting** thing you’ll ever read in your life. Seriously. No need to thank me. 😎✨
+I work on things other people stopped caring about.
 
-I started my **programming journey** many years ago ⏳. I was a **tiny boy** 👶 with a dream 💭. From there, I “grew” into the **average**, totally uninspired **coder** 💻 you see before you. 🤖
+## Reuse
 
-- *Insert tons of links to my generic blog posts about topics I have no idea about.*
-- *Insert tons of links to my social media accounts because I'm tottaly worth following.*
-- *Pretty graph, so you can get impressed.*
+Anything public in my repositories is available to you.
+The only requirement is that you follow the license attached to what you take
+and attribute where needed. I don't need credit beyond that.
 
+## Contact
+
+Social media handles are there for friends scattered around the internet, if we don't know each other, do not message me privately, on any platform, for any reason.
+
+This applies to feature requests, support questions, technical debates,
+"quick favors", mediation between you and someone else,
+legal interpretations about "licenses" you glued together with ChatGPT,
+and anything you've convinced yourself is urgent enough to justify
+contacting me.
+
+If you actually need something from me that affects the code:
+
+- **Issue** - tell me what's broken. Show me how to reproduce it.
+  Include logs, include your setup, include what you already tried.
+
+- **Pull Request** - one thing at a time. Clean diff.
+  Notes on what you changed and how you tested it.
+  If your PR needs an essay, it's too big. Break it up.
+
+## Boundaries
+
+I run a quiet workspace.
+
+Do not bring community disputes, brand politics, personal grievances,
+posturing, or interpersonal drama into my repositories or my inbox.
+This is not a forum for airing out whatever happened
+in a Discord server last week.
+
+If you were blocked on another platform, don't assume this one is separate.
